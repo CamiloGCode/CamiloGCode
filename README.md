@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-<p>Me chamo Gabriel Camilo Moreira Silva, tenho 21 anos e sou natural de Minas Gerais. Sou formado em técnico de informática e atualmente estou cursando o 3° periodo de Engenharia de Software pelo Centro Universitário Católico do Leste de Minas Gerais - UNILESTE. Sou apaixonado por tecnologia e procuro melhorar meus conhecimentos e habilidades práticas e teóricas cada vez mais afim de me tornar um profissional capacitado na área de TI.</p>
+<p>Me chamo Gabriel Camilo Moreira Silva, tenho 22 anos e sou natural de Minas Gerais. Sou formado em técnico de informática e atualmente estou cursando o 4° periodo de Engenharia de Software pelo Centro Universitário Católico do Leste de Minas Gerais. Sou apaixonado por tecnologia e procuro melhorar meus conhecimentos e habilidades práticas e teóricas cada vez mais afim de me tornar um profissional capacitado na área de TI.</p>
 
 <div align="start">  
   
