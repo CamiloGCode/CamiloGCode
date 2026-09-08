@@ -99,7 +99,7 @@ Aplicação desenvolvida para fins acadêmicos e de aprendizado, com foco em org
 
 ## 📫 Entre em contato
 
-<div align="left">
+<div align="justify">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/gabriell.camii/)
   
@@ -109,7 +109,7 @@ Aplicação desenvolvida para fins acadêmicos e de aprendizado, com foco em org
 
 <br>
 
-<div align="center">
+<div align="justify">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>  
   
