@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Gabriel Camilo
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Web Full Stack`**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
@@ -91,9 +91,9 @@ Aplicação desenvolvida para fins acadêmicos e de aprendizado, com foco em org
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CamiloGTech&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Gabriel Camilo" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CamiloGCode&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Gabriel Camilo" />
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloGTech&layout=compact&hide_border=true&title_color=4B0082&text_color=FFFFFF&bg_color=0d1117" alt="Linguagens mais utilizadas" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloGCode&layout=compact&hide_border=true&title_color=4B0082&text_color=FFFFFF&bg_color=0d1117" alt="Linguagens mais utilizadas" />
 
 </div>
 
